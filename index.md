@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/samaswin87/samaswin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am working as a software developer in Java and Rails. I started my career with Java and moved to Rails.
 
 ### Markdown
 
